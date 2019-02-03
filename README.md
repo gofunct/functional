@@ -1,3 +1,6 @@
-# FMap: Useful Golang Utility Functions
+# The Advanced Golang Standard Library
+Author: Coleman Word
 
-forked and reworked from github.com/Masterminds/sprig
+License: Do whatever you want with this code
+
+Info: I
